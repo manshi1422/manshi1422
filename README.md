@@ -1,3 +1,5 @@
+
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
 <h1 align="center">Hi 👋, I'm Manshi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
