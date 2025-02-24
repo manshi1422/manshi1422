@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am female version of chandler(friends's character)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://www.linkedin.com/in/manshi-kumari-348b151a9
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
