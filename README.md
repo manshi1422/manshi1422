@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Manshi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Spring Boot Applications**
-
-- 🌱 I’m currently learning **spring boot and java**
-
-- 👯 I’m looking to collaborate on **unique ideas**
 
 - 💬 Ask me about **react, next**
 
